@@ -1,0 +1,95 @@
+2019-12-15 19:56:01,058 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-15 19:57:22,650 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\pom.xml
+2019-12-15 19:57:27,742 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGITRepo:DemoProject:0.0.1-SNAPSHOT @ D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\pom.xml.
+2019-12-15 19:57:28,962 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/main/java
+2019-12-15 19:57:28,966 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/test/java
+2019-12-15 19:57:34,990 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2019-12-15 19:57:35,739 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:57:35,739 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:57:35,743 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:57:35,744 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:57:43,391 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:57:43,391 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:57:43,393 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:57:43,393 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:57:48,125 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:57:48,125 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:57:48,128 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:57:48,128 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:58:18,262 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:58:18,262 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:58:18,263 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:58:18,263 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:58:31,484 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:58:31,485 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:58:31,486 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:58:31,486 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:58:52,905 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:58:52,906 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:58:52,909 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:58:52,910 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:59:09,179 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:59:09,179 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:59:09,181 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:59:09,181 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:59:10,205 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:59:10,206 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:59:10,209 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:59:10,209 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 19:59:47,120 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:59:47,120 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 19:59:47,122 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 19:59:47,122 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:00:26,043 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:00:26,044 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:00:26,047 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:00:26,047 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:00:42,495 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:00:42,495 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:00:42,497 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:00:42,497 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:00:56,544 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:00:56,545 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:00:56,549 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:00:56,550 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:01:04,035 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:04,036 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:01:04,040 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:04,041 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:01:05,932 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:05,932 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:01:05,933 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:05,933 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:01:16,616 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:16,616 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:01:16,618 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:16,618 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:01:29,568 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:29,568 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:01:29,572 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:29,572 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:01:40,836 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:40,837 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:01:40,838 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:40,839 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:01:47,882 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:47,882 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:01:47,884 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:01:47,884 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:04:56,201 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:04:56,201 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:04:56,201 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:04:56,201 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:05:07,796 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoGITRepo:DemoProject:0.0.1-SNAPSHOT @ D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\pom.xml.
+2019-12-15 20:05:08,879 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:05:08,880 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:05:08,881 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:05:08,881 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:05:10,152 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:05:10,152 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:05:10,153 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:05:10,153 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
+2019-12-15 20:05:49,659 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:05:49,660 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\main\resources
+2019-12-15 20:05:49,660 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-15 20:05:49,661 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Saritha\Saritha\seleniumTraining\GIT-Selenium\DemoProject\src\test\resources
